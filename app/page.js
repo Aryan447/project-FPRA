@@ -4,6 +4,9 @@ import Intro from '@/components/Intro'
 export default function Home() {
   return (
     <>
+    <head>
+      <title>Project FPRA</title>
+    </head>
     <Intro/>
     </>
   )
