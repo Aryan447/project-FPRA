@@ -7,7 +7,9 @@ export default function Home() {
     <head>
       <title>Project FPRA</title>
     </head>
+    <body>
     <Intro/>
+    </body>
     </>
   )
 }
